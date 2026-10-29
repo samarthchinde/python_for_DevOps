@@ -1,0 +1,14 @@
+we can create a virtual env for our projects and this command is resposible for crateing venv :
+python3.14 -m venv practice 
+
+for the activation of the env :
+source practice/bin/activate
+
+for fish shell or for cashy os :
+source practice/bin/activate.fish
+----------------------------------------------------------------------
+psutils :
+psutil is a Python library used to monitor system resources and manage running processes.
+
+for installation : pip install psutils
+for documentation : print(dir(psutil))      
